@@ -61,11 +61,7 @@ The project follows a clean, scalable structure suitable for real client project
 
 ![Project Structure](images/04_project_structure.jpg)
 
----
 
-## 📂 Project Structure
-
-excel-data-cleaning-automation/ │ ├── data/ │   └── raw/ │       └── raw_client_data.csv │ ├── scripts/ │   ├── create_raw_excel.py │   └── clean_excel_data.py │ ├── output/ │   └── cleaned_client_data.xlsx │ ├── images/ │   ├── 01_challenge.jpg │   ├── 02_automation_logic.jpg │   ├── 03_output.jpg │   └── 04_project_structure.jpg │ ├── .gitignore └── README.md
 
 ---
 
